@@ -84,8 +84,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baremetaldevx86&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=tokyonight&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baremetaldevx86&layout=compact&theme=tokyonight&hide_border=true" width="50%"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=baremetaldevx86&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baremetaldevx86&layout=compact&theme=tokyonight&hide_border=true" width="40%"  />
 </p>
 
 ---
