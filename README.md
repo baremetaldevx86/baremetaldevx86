@@ -61,8 +61,8 @@
 ## 🚀 Featured Projects
 
 🔹 **Autograd Engine in C**  
-> Neural network backprop engine built from scratch in pure C
->  Designed a computational graph runtime with reverse-mode backpropagation for neural network training.
+> Neural network backprop engine built from scratch in pure C.
+> Designed a computational graph runtime with reverse-mode backpropagation for neural network training.
 > This is the core infrastructure used in deep learning frameworks like PyTorch and TensorFlow.
 
 🔹 **Neural Network Hardware Accelerator**
