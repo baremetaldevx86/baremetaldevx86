@@ -82,24 +82,37 @@
 ---
 
 ---
+---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baremetaldevx86&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baremetaldevx86&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=baremetaldevx86&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=baremetaldevx86&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baremetaldevx86&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baremetaldevx86&theme=tokyonight" width="48%" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baremetaldevx86&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baremetaldevx86&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📈 Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=baremetaldevx86&theme=tokyo-night&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=baremetaldevx86&theme=tokyo-night&hide_border=true" />
 
 ---
 
