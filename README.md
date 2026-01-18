@@ -96,18 +96,6 @@
 
 ---
 
-## 📈 Total Contributions & Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=baremetaldevx86&theme=tokyo-night&hide_border=true" />
-
----
-
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=baremetaldevx86&theme=tokyo-night&hide_border=true" />
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/vedant-chauhan-3826332b4/
