@@ -93,7 +93,7 @@
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/vedant-chauhan-3826332b4/
-- 🐦 X: @baremetaldev_
+- 🐦 X: https://x.com/baremetaldev_
 - 📧 Email: chauhanvedant007@gmail.com
 
 ---
