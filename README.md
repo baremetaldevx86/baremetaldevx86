@@ -9,6 +9,7 @@
 
 - 🎓 Computer Science and Engineering
 - 💻 Systems Programming & Low-Level Infrastructure (C, C++, ML Systems, OS, Compilers, Drivers)
+- 🛠️ Deep Learning Frameworks
 - 📈 Quantitative Finance & Trading Systems
 
 ---
