@@ -11,10 +11,9 @@
 
 ## About Me
 
-- 🎓 Computer Science + Mathematics
-- 💻 Low-Level Programming (C, C++, ML Systems, OS, Compilers, Drivers)
+- 🎓 Computer Science and Engineering
+- 💻 Systems Programming & Low-Level Infrastructure (C, C++, ML Systems, OS, Compilers, Drivers)
 - 📈 Quantitative Finance & Trading Systems
-- 🧮 Math, Statistics & Algorithms
 
 ---
 
