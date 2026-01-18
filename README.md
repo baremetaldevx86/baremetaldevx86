@@ -1,12 +1,10 @@
 # bits2binaries
-
-<h1 align="center">Hi , I'm Vedant Chauhan</h1>
-<h3 align="center">Systems Programmer | Quant Developer | Low-Level Engineer</h3>
-
 <p align="center">
-  Building from raw bits to high-performance systems.<br>
+  <a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=999999999999999&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+Vedant+Chauhan+%3A)" alt="Typing SVG" /></a>  
+    <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7880E&center=true&vCenter=true&random=true&width=435&lines=Systems+Programmer;ML+Systems;Low+level+Systems;Quant+Developer" alt="Typing SVG" /></a>
 </p>
-
 ---
 
 ## About Me
