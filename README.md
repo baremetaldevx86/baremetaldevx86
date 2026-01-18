@@ -12,7 +12,7 @@
 ## About Me
 
 - 🎓 Computer Science + Mathematics
-- 💻 Low-Level Programming (C, C++, OS, Compilers, Drivers)
+- 💻 Low-Level Programming (C, C++, ML Systems, OS, Compilers, Drivers)
 - 📈 Quantitative Finance & Trading Systems
 - 🧮 Math, Statistics & Algorithms
 
@@ -25,6 +25,16 @@
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 
+### Data Science & Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=plotly)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![Machine Learning Systems](https://img.shields.io/badge/Machine%20Learning%20Systems-black?style=for-the-badge)
+![AI Infrastructure](https://img.shields.io/badge/AI%20Infrastructure-darkblue?style=for-the-badge)
+![Deep Learning Frameworks](https://img.shields.io/badge/Deep%20Learning%20Frameworks-red?style=for-the-badge)
+![Low-Level Compute](https://img.shields.io/badge/Low--Level%20Compute-gray?style=for-the-badge)
 
 ---
 
@@ -52,6 +62,8 @@
 
 🔹 **Autograd Engine in C**  
 > Neural network backprop engine built from scratch in pure C
+>  Designed a computational graph runtime with reverse-mode backpropagation for neural network training.
+> This is the core infrastructure used in deep learning frameworks like PyTorch and TensorFlow.
 
 🔹 **Neural Network Hardware Accelerator**
 > Designing a GPU-style NN accelerator from scratch
@@ -76,7 +88,7 @@
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/vedant-chauhan-3826332b4/
-- 🐦 X/Twitter: @baremetaldev_
+- 🐦 X: @baremetaldev_
 - 📧 Email: chauhanvedant007@gmail.com
 
 ---
