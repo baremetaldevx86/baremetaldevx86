@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=999999999999999&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+Vedant+Chauhan" alt="Typing SVG" /></a>  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=999999999999999&color=58A6FF&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+Vedant+Chauhan" alt="Typing SVG" /></a>  
     <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7880E&center=true&vCenter=true&random=true&width=435&lines=Systems+Programmer;Deep+Learning+Frameworks;Low-level-Engineer;Quant+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00F5D4&center=true&vCenter=true&random=true&width=435&lines=Systems+Programmer;Deep+Learning+Frameworks;Low-level-Engineer;Quant+Developer" alt="Typing SVG" /></a>
 </p>
 
 ## About Me
