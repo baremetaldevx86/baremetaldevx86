@@ -81,33 +81,12 @@
 
 ---
 
----
----
+## 📊 GitHub Stats
 
-## 📊 GitHub Analytics
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=baremetaldevx86&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=baremetaldevx86&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baremetaldevx86&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baremetaldevx86&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## 📈 Contribution Activity
@@ -121,7 +100,6 @@
 ![Metrics](https://metrics.lecoq.io/baremetaldevx86?template=classic&isocalendar=1&languages=1&lines=1&repositories=1&activity=1&introduction=1&config.timezone=Asia/Kolkata)
 
 ---
-
 
 ## 🌐 Connect With Me
 
