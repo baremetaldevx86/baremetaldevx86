@@ -4,7 +4,6 @@
     <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7880E&center=true&vCenter=true&random=true&width=435&lines=Systems+Programmer;Machine+Learning+Systems;Low-level-Engineer;Quant+Developer" alt="Typing SVG" /></a>
 </p>
----
 
 ## About Me
 
