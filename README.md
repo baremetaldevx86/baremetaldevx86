@@ -81,12 +81,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baremetaldevx86&show_icons=true&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baremetaldevx86&theme=tokyonight" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=baremetaldevx86&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=baremetaldevx86&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Total Contributions & Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=baremetaldevx86&theme=tokyo-night&hide_border=true" />
 
 ---
 
