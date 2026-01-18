@@ -48,8 +48,9 @@
 - Operating Systems
 - Memory Management
 - Compilers & Interpreters
-- Drivers & Embedded
+- Drivers & Embedded Systems
 - Hardware Acceleration
+- IoT & Microcontrollers
 
 ---
 
