@@ -1,6 +1,6 @@
 # baremetaldevx86
 
-<h1 align="center">Hi 👋, I'm Vedant Chauhan</h1>
+<h1 align="center">Hi , I'm Vedant Chauhan</h1>
 <h3 align="center">Systems Programmer | Quant Developer | Low-Level Engineer</h3>
 
 <p align="center">
