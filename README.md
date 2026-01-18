@@ -40,6 +40,7 @@
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+
 ---
 
 ### Systems & Low-Level
