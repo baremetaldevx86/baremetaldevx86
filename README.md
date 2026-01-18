@@ -90,6 +90,14 @@
 
 ---
 
+## 📈 Total Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baremetaldevx86&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/vedant-chauhan-3826332b4/
