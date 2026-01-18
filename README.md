@@ -81,18 +81,12 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=baremetaldevx86&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=baremetaldevx86&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baremetaldevx86&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baremetaldevx86&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
