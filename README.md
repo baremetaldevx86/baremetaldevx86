@@ -9,13 +9,12 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 🎓 Computer Science + Mathematics
 - 💻 Low-Level Programming (C, C++, OS, Compilers, Drivers)
 - 📈 Quantitative Finance & Trading Systems
 - 🧮 Math, Statistics & Algorithms
-- ⚡ Can train 2–3 hours daily
 
 ---
 
