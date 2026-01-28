@@ -5,9 +5,9 @@ Systems programmer focused on low-level software, performance, and correctness.
 ## Interests
 - Operating systems, kernels, and drivers
 - Compilers, runtimes, and memory allocators
-- GPU architecture and hardware acceleration
+- Systems ML: autograd engines, runtimes, and memory management
 - Networking and distributed systems
-- Quantitative finance systems
+- Quantitative finance systems and Algorithmic Trading
 
 ## Top Projects
 - **Autograd Engine in C** — Reverse-mode automatic differentiation with dynamic computation graphs and manual memory management.
