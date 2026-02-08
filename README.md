@@ -1,4 +1,4 @@
-# AnyOne
+# Vedant
 
 Systems-first engineer focused on building correct, performant software from first principles. Interested in low-level systems, ML infrastructure, and quantitative engineering.
 
