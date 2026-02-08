@@ -1,33 +1,57 @@
-# Vedant Chauhan
+# AnyOne
 
-Systems programmer focused on low-level software, performance, and correctness.
+Systems-first engineer focused on building correct, performant software from first principles. Interested in low-level systems, ML infrastructure, and quantitative engineering.
 
-## Interests
-- Operating systems, kernels, and drivers
-- Compilers, runtimes, and memory allocators
-- Systems ML: autograd engines, runtimes, and memory management
-- Networking and distributed systems
-- Quantitative finance systems and Algorithmic Trading
+---
 
-## Top Projects
-- **Autograd Engine in C** — Reverse-mode automatic differentiation with dynamic computation graphs and manual memory management.
-- **Browser Engine in Rust** — HTML/CSS parsing, layout, and rendering with strong safety and performance guarantees.
-- **Custom Memory Allocator + Shell** — User-space allocator with a minimal shell to test, profile, and reason about memory behavior.
+## Current Focus
 
-## Core Skills
-- C, C++, Rust, Python
-- Linux internals, POSIX, syscalls
-- Memory management, concurrency, IPC
-- Bare-metal and embedded development
-- Performance profiling and optimization
+* Deep neural networks from scratch (autograd engines, training loops, numerical stability)
+* Systems programming in C/C++ and Rust-like mental models
+* ML infrastructure and performance (memory, kernels, data movement)
+* Quantitative thinking: statistics, probability, optimization
 
-## Tools
-- Linux, GDB, strace, perf
-- Neovim, Make, CMake
-- Git, Bash
+---
 
-## Long-Term Direction
-- Systems and GPU engineering
-- Building subsystems from scratch to understand internals
-- Linux kernel modules and driver-level experiments
+## Selected Projects
 
+* **Autograd Engine (C)** – A from-scratch automatic differentiation engine with tensor ops, backprop, and custom memory handling.
+* **Memory Allocator** – Custom allocator exploring arenas, freelists, and fragmentation tradeoffs.
+* **Shell & Web Server** – UNIX-style shell and a minimal HTTP server to understand process control, I/O, and networking internals.
+
+---
+
+## Technical Strengths
+
+* Low-level programming: memory, pointers, caches, undefined behavior
+* Mathematical foundations: linear algebra, calculus, probability
+* Systems debugging: tracing, profiling, reasoning about performance
+* Linux-first development environment
+
+---
+
+## Languages
+
+* C
+* C++
+* Python
+* Rust
+* Bash
+
+---
+
+## Learning Philosophy
+
+* Read the paper
+* Read the code
+* Re-implement both
+
+---
+
+## Direction
+
+Aiming toward roles involving Systems engineering, ML infrastructure, GPU Engineering and Quantitative research. Long-term goal: work on high-performance systems where math meets silicon.
+
+---
+
+> Build close to the metal. Measure everything. Abstract only when earned.
