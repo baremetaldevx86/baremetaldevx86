@@ -21,7 +21,7 @@ Systems-first engineer focused on building correct, performant software from fir
 
 ---
 
-## Technical Strengths
+## Technical Skills
 
 * Low-level programming: memory, pointers, caches, undefined behavior
 * Mathematical foundations: linear algebra, calculus, probability
