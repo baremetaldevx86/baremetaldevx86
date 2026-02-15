@@ -16,11 +16,10 @@ Systems Engineer focused on building performant software from first principles. 
 
 ---
 
-## Selected Projects
+## Notable Projects
 
-* **Autograd Engine (C)** – A from-scratch automatic differentiation engine with tensor ops, backprop, and custom memory handling.
-* **Memory Allocator** – Custom allocator exploring arenas, freelists, and fragmentation tradeoffs.
-* **Shell & Web Server** – UNIX-style shell and a minimal HTTP server to understand process control, I/O, and networking internals.
+* **[Autograd Engine](https://github.com/baremetaldevx86/microDR)** – An automatic differentiation engine with tensor ops, backprop, and custom memory handling built in pure C.
+* **[microDR](https://github.com/baremetaldevx86/microDR)** – A minimal differentiable renderer built from first principles. 
 
 ---
 
