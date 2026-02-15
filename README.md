@@ -18,7 +18,7 @@ Systems Engineer focused on building performant software from first principles. 
 
 ## Notable Projects
 
-* **[rawgrad](https://github.com/baremetaldevx86/autograd-engine)** – An automatic differentiation engine with tensor ops, backprop, and custom memory handling built in pure C.
+* **[rawgrad](https://github.com/baremetaldevx86/rawgrad)** – An automatic differentiation engine with tensor ops, backprop, and custom memory handling built in pure C.
 * **[microDR](https://github.com/baremetaldevx86/microDR)** – A minimal differentiable renderer built from first principles. 
 
 ---
