@@ -2,9 +2,7 @@
 
 Systems Engineer focused on building performant software from first principles. Interested in low-level systems, ML infrastructure, and quantitative engineering.
 
----
-
-## Current Project - [microDR](https://github.com/baremetaldevx86/) (A simple differentiable renderer built from ground up)
+## Current Project - [microDR](https://github.com/baremetaldevx86/microDR) (Backpropagation, but through light)
 
 ---
 ## Current Focus
