@@ -43,14 +43,6 @@ Systems Engineer focused on building performant software from first principles. 
 
 ---
 
-## Learning Philosophy
-
-* Read the paper
-* Read the code
-* Re-implement both
-
----
-
 ## Direction
 
 Aiming toward roles involving Systems engineering, ML infrastructure, GPU Engineering and Quantitative research. Long-term goal: work on high-performance systems where math meets silicon.
