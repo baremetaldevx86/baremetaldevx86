@@ -1,4 +1,4 @@
-# vedant chauhan
+# vedant
 
 Systems Engineer focused on building performant software from first principles. Interested in low-level systems, ML infrastructure, and quantitative engineering.
 
